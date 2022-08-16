@@ -1,0 +1,11 @@
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\bin\Debug\IMEI_TOOLZ.exe.config
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\bin\Debug\IMEI_TOOLZ.exe
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\bin\Debug\IMEI_TOOLZ.pdb
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.csproj.AssemblyReference.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.csproj.SuggestedBindingRedirects.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.Form1.resources
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.Properties.Resources.resources
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.csproj.GenerateResource.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.csproj.CoreCompileInputs.cache
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.exe
+C:\DISK2\PROJECTS\Development\OAE_CSharp\IMEI_TOOLZ\IMEI_TOOLZ\obj\Debug\IMEI_TOOLZ.pdb
